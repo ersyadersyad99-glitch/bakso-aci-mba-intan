@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="url(#grad)" />
+  <circle cx="32" cy="34" r="18" fill="#38251D" />
+  <ellipse cx="32" cy="31" rx="15" ry="9" fill="#D93636" />
+  <circle cx="26" cy="30" r="4.5" fill="#FFF4E6" />
+  <circle cx="35" cy="28" r="5" fill="#FFF4E6" />
+  <circle cx="32" cy="34" r="4" fill="#FDE8D0" />
+  <circle cx="39" cy="33" r="3.5" fill="#A3E635" />
+  <path d="M24 18C23 14 26 12 25 9" stroke="#FFF4E6" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M32 16C31 12 34 10 33 7" stroke="#F28C28" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M40 18C39 14 42 12 41 9" stroke="#FFF4E6" stroke-width="2.5" stroke-linecap="round" />
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D93636" />
+      <stop offset="1" stop-color="#F28C28" />
+    </linearGradient>
+  </defs>
+</svg>

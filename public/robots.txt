@@ -1,0 +1,9 @@
+# robots.txt for BAKSO ACI MBA INTAN (Official Culinary Website | VARDH.ID)
+# Ensure all important culinary pages and assets are crawlable by Googlebot
+
+User-agent: *
+Allow: /
+Disallow: /404
+
+# Sitemap location (Final production domain: https://baksoacimbaintan.vardh.id/)
+Sitemap: https://baksoacimbaintan.vardh.id/sitemap.xml
