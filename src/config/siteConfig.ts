@@ -13,12 +13,12 @@ export type ReviewPlatformId = 'google' | 'gofood' | 'grabfood';
 
 const env = import.meta.env || {};
 
-export const DEFAULT_PRODUCTION_DOMAIN = 'https://baksoacimbaintan.vardh.id/';
+export const DEFAULT_PRODUCTION_DOMAIN = 'https://bakso-aci-mba-intan.vercel.app/';
 
 /**
  * Normalizes a configured site URL into a canonical root URL with trailing slash.
- * Rejects localhost, 127.0.0.1, non-HTTPS URLs, and temporary .vercel.app preview URLs
- * so SEO metadata always points to the official production domain.
+ * Rejects localhost, 127.0.0.1, and non-HTTPS URLs so SEO metadata always points
+ * to the active production domain.
  */
 export function normalizeCanonicalSiteUrl(rawUrl?: string): string {
   const candidate = (rawUrl ?? env.VITE_SITE_URL ?? DEFAULT_PRODUCTION_DOMAIN).trim();
@@ -26,7 +26,6 @@ export function normalizeCanonicalSiteUrl(rawUrl?: string): string {
     !candidate ||
     candidate.includes('localhost') ||
     candidate.includes('127.0.0.1') ||
-    candidate.includes('.vercel.app') ||
     !candidate.startsWith('https://')
   ) {
     return DEFAULT_PRODUCTION_DOMAIN;

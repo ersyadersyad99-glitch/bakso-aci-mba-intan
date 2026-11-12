@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   SITEMAP FOR BAKSO ACI MBA INTAN
-  Confirmed Production Domain: https://baksoacimbaintan.vardh.id/
+  Confirmed Production Domain: https://bakso-aci-mba-intan.vercel.app/
 -->
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
   <url>
-    <loc>https://baksoacimbaintan.vardh.id/</loc>
+    <loc>https://bakso-aci-mba-intan.vercel.app/</loc>
     <lastmod>2026-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/hero/hero-bakso-aci.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/hero/hero-bakso-aci.webp</image:loc>
       <image:title>Bakso Aci MBA INTAN — Kuliner Bakso Aci Kebalen, Babelan, Kabupaten Bekasi</image:title>
       <image:caption>Semangkuk Bakso Aci gurih pedas khas Bakso Aci MBA INTAN di Jl. Palapa, Kebalen, Kec. Babelan, Kabupaten Bekasi</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/products/bakso-aci-paket-inces-1.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/products/bakso-aci-paket-inces-1.webp</image:loc>
       <image:title>Paket Inces I — Bakso Aci &amp; Frozen Food Bekasi MBA INTAN</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/products/bakso-aci-paket-inces-2.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/products/bakso-aci-paket-inces-2.webp</image:loc>
       <image:title>Paket Inces II — Bakso Aci Babelan Resto's Top Pick MBA INTAN</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/products/bakso-aci-paket-inces-3.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/products/bakso-aci-paket-inces-3.webp</image:loc>
       <image:title>Paket Inces III — Bakso Aci Kebalen Babelan MBA INTAN</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/products/bakso-aci-jumbo.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/products/bakso-aci-jumbo.webp</image:loc>
       <image:title>Paket Inces JUMBO — Bakso Aci Kabupaten Bekasi MBA INTAN</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/products/bakso-aci-hemat.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/products/bakso-aci-hemat.webp</image:loc>
       <image:title>Paket Inces Hemat — Jajanan Kebalen &amp; Kuliner Babelan MBA INTAN</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/products/dimsum-salmon.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/products/dimsum-salmon.webp</image:loc>
       <image:title>Dimsum Salmon (Isi 6) — Dimsum Babelan MBA INTAN</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/products/pempek.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/products/pempek.webp</image:loc>
       <image:title>Varian Menu Pempek — Pempek Babelan MBA INTAN</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://baksoacimbaintan.vardh.id/images/products/dimsum-mentai.webp</image:loc>
+      <image:loc>https://bakso-aci-mba-intan.vercel.app/images/products/dimsum-mentai.webp</image:loc>
       <image:title>Varian Dimsum Mentai — Kuliner Babelan Bekasi MBA INTAN</image:title>
     </image:image>
   </url>

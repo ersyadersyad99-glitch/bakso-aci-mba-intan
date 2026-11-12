@@ -5,5 +5,5 @@ User-agent: *
 Allow: /
 Disallow: /404
 
-# Sitemap location (Final production domain: https://baksoacimbaintan.vardh.id/)
-Sitemap: https://baksoacimbaintan.vardh.id/sitemap.xml
+# Sitemap location (Active production domain: https://bakso-aci-mba-intan.vercel.app/)
+Sitemap: https://bakso-aci-mba-intan.vercel.app/sitemap.xml

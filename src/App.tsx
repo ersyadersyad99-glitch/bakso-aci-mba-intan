@@ -23,7 +23,7 @@ import { FloatingWhatsApp } from './components/FloatingWhatsApp';
 import { OrderModal } from './components/OrderModal';
 import { ConfigModal } from './components/ConfigModal';
 
-const STORAGE_KEY = 'bakso_aci_mba_intan_master_config_v11';
+const STORAGE_KEY = 'bakso_aci_mba_intan_master_config_v12';
 
 export function App() {
   const [config, setConfig] = useState<SiteConfig>(() => {
